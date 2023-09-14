@@ -1,7 +1,7 @@
 # INFO-6150_Web_design_and_user_experience-Assignment-1
 This assignment is about boston Red sox baseball team match tickets availability and booking.
 
-#Zip file of the assignment is also uploaded in github
+Zip file of the assignment is also uploaded in github
 
 Tags used for assignment
 1. rel & href Tag: To specify relationship and referfering to css files
